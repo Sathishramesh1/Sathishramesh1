@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathishramesh1" alt="sathishramesh1" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://sathish-ramesh.netlify.app/](https://sathish-ramesh.netlify.app/)
 
